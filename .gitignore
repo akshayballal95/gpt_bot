@@ -163,3 +163,4 @@ models/
 #.idea/
 efficientnet.pth
 key.env
+result.json
